@@ -1,4 +1,30 @@
-## Hi there 👋
+# Hi, I'm Shivani 👋
+
+## 🎓 About Me
+- B.E Student (2nd Semester)
+- Currently learning Python & Problem Solving
+- Exploring Cybersecurity
+
+## 🚀 Current Focus
+- 30 Days Python Challenge
+- Improving coding skills
+- Building consistency
+
+## 🛠️ Skills
+- Python (Basics)
+- Problem Solving
+
+## 📌 Projects
+- 🔹 30 Days Python Challenge  
+  (Add your repo link here)
+
+## 📈 Goals
+- Crack internships
+- Become strong in DSA
+- Build real-world projects
+
+## 📫 Contact
+- Email: (shivanishahi1221@gmail.com)
 
 <!--
 **shahishivani19-ctrl/shahishivani19-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
