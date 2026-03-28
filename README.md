@@ -16,7 +16,7 @@
 
 ## 📌 Projects
 - 🔹 30 Days Python Challenge  
-  (Add your repo link here)
+  (https://github.com/shahishivani19-ctrl/30-days-python-challenge.git)
 
 ## 📈 Goals
 - Crack internships
