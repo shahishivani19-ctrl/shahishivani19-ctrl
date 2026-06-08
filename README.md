@@ -17,7 +17,9 @@
 ## 📌 Projects
 - 🔹 30 Days Python Challenge  
   (https://github.com/shahishivani19-ctrl/30-days-python-challenge.git)
-
+-    password-strength-analyzer
+- (https://github.com/shahishivani19-ctrl/password-strength-analyzer.git)
+   
 ## 📈 Goals
 - Crack internships
 - Become strong in DSA
